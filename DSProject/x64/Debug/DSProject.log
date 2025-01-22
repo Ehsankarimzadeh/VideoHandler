@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\sistanAlaptop\Desktop\1\DSProject\main.cpp(4,2): error C2065: 'vcnm': undeclared identifier
+C:\Users\sistanAlaptop\Desktop\1\DSProject\main.cpp(5,1): error C2143: syntax error: missing ';' before '}'
